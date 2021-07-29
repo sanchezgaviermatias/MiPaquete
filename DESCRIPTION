@@ -1,15 +1,13 @@
 Package: mipaquete
-Title: What the Package Does (One Line, Title Case)
+Title: Finance Baby 
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Matias",
+           family = "Sanchez Gavier",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+           email = "sanchezgaviermatias@gmail.com"))
+Description: Este paquete te va a volver crazy mi amor.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
