@@ -5,10 +5,15 @@ Authors@R:
     person(given = "Matias",
            family = "Sanchez Gavier",
            role = c("aut", "cre"),
-           email = "sanchezgaviermatias@gmail.com"))
+           email = "sanchezgaviermatias@gmail.com")
 Description: Este paquete te va a volver crazy mi amor.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    forcats
